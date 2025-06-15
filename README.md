@@ -94,7 +94,7 @@ If you use our work in your research, please cite:
    A. A. Nayan et al., *IEEE STI*, 2020.
    DOI: [10.1109/STI50764.2020.9350521](https://doi.org/10.1109/STI50764.2020.9350521)
 5. **Real Time Multi-Class Object Detection and Recognition Using Vision Augmentation Algorithm.**
-    A. A. Nayan et. al., *International Journal of Advanced Science and Technology*,2020. DOI: 10.48550/arXiv.2003.07442
+    A. A. Nayan et. al., *International Journal of Advanced Science and Technology*,2020. DOI: [10.48550/arXiv.2003.07442] (https://doi.org/10.48550/arXiv.2003.07442)
 ---
 
 ## 🎓 Acknowledgments
